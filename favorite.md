@@ -7,5 +7,5 @@
 
 ### C
 #### [Help](https://themorehelp.com/)
-#### [Info](https://coupon.infodeli.com/gificons/index)
+#### [Info](https://coupon.infordeli.com/coupon)
 #### [Coup](https://www.coupop.co.kr/)
