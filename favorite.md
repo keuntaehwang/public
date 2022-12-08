@@ -1,5 +1,5 @@
 ## A
-### https://www.naver.com/
+### https://m.naver.com/
 ### https://www.algumon.com/
 ### https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank
 
