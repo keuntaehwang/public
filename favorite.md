@@ -6,6 +6,7 @@
 
 ## B
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
+### <https://github.com/keuntaehwang/public/blob/main/favorite.md>
 ### <https://weather.naver.com/today/02135110>
 
 ## C
