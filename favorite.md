@@ -3,8 +3,10 @@
 ### <https://www.algumon.com/>
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
+
 ## B
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
+### <https://weather.naver.com/today/02135110>
 
 ## C
 ### <https://www.shinhancard.com/pconts/html/card/apply/credit/1187945_2207.html>
