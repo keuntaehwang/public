@@ -10,6 +10,7 @@
 
 ## C
 ### <https://www.shinhancard.com/pconts/html/card/apply/credit/1187945_2207.html>
+### <https://www.okcashbag.com/displayadmin/partner.do>
 ### <https://allthat.aws.shinhancard.com/dsp02000/429>
 ### <https://www.happymoney.co.kr/svc/>
 ### <https://www.seagm.com/>
