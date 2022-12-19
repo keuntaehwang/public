@@ -22,3 +22,4 @@
 ### <https://coupon.infordeli.com/coupon>
 ### <https://www.coupop.co.kr/>
 ### <https://www.offgamers.com/kr/en>
+### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
