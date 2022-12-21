@@ -16,7 +16,11 @@
 ### <https://www.happymoney.co.kr/svc/>
 ### <https://www.seagm.com/>
 
-## D
+## Work
+### <https://new.meeting.samsung.net/>
+### <https://smartoffice.samsung.net/>
+
+## Daily
 ### <https://www.liivm.com/system/login/login>
 ### <https://themorehelp.com/>
 ### <https://coupon.infordeli.com/coupon>
