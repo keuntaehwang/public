@@ -18,6 +18,8 @@
 ## C
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
 ### <https://github.com/keuntaehwang/public/blob/main/favorite.md>
+### <https://kt1115.quickconnect.to/>
+### <https://192-168-45-10.kt1115.direct.quickconnect.to:5001/>
 ### <https://weather.naver.com/today/02135110>
 
 ## D
