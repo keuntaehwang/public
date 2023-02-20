@@ -8,12 +8,13 @@ categories: NONE
 ## A
 ### <https://m.naver.com/>
 ### <https://kktv99.com/kktv/sport_live.php>
+### <https://www.spotvnow.co.kr/>
 ### <https://www.algumon.com/>
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
-### <https://github.com/keuntaehwang/public/blob/main/favorite.md>
+### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 ### <https://quickconnect.to/>
 ### <https://weather.naver.com/today/02135110>
 
