@@ -14,6 +14,8 @@ categories: NONE
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
+### <https://weather.com/ko-KR/weather/tenday/l/595d74945acfefc4ad1daf67048df3e1c105f8e303f8629559bbf558b6c78d9d>
+### <https://www.accuweather.com/ko/jp/osaka-shi/225007/daily-weather-forecast/225007>
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
 ### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 ### <https://quickconnect.to/>
