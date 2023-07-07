@@ -14,8 +14,6 @@ categories: NONE
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
-### <https://weather.com/ko-KR/weather/tenday/l/595d74945acfefc4ad1daf67048df3e1c105f8e303f8629559bbf558b6c78d9d>
-### <https://www.accuweather.com/ko/jp/osaka-shi/225007/daily-weather-forecast/225007>
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
 ### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 ### <https://quickconnect.to/>
@@ -41,5 +39,5 @@ categories: NONE
 ### <https://coupon.infordeli.com/coupon>
 ### <https://www.offgamers.com/kr/en> [TMH](https://themorehelp.com/)
 ### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
-### <https://www.liivm.com/system/login/login>
+### [SEARCH](https://www.google.com/search?q=%EC%BB%AC%EB%A6%AC+%EA%B0%80%EC%9E%85+%EC%9D%B4%EB%B2%A4%ED%8A%B8&biw=393&bih=736&tbs=qdr%3Aw&ei=MQyoZJXrDKeu2roPz5uqmA0&oq=%EC%BB%AC%EB%A6%AC++%EC%9D%B4%EB%B2%A4%ED%8A%B8&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYAjIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMggIIRCgARDDBDIICCEQoAEQwwQyCAghEKABEMMEOggIABCiBBCwA0oECEEYAVDmC1iYDWDaKmgBcAB4AIABxwGIAeICkgEDMC4ymAEAoAEBwAEByAED&sclient=mobile-gws-wiz-serp#ip=1)
 
