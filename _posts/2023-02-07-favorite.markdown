@@ -18,6 +18,10 @@ categories: NONE
 ### <https://quickconnect.to/>
 ### <https://weather.naver.com/today/02135110>
 
+## C
+### <https://m.tourvis.com/activity/product/PRD3000484062>
+### <http://edu.yes24.com/goods/goods_lecture_detail.aspx?GOODSMST_NO=574624&CATE_CODE=009022004001>
+
 ## D
 ### <http://m.danawa.com/>
 ### <https://club.gmarket.co.kr/starbucks>
@@ -25,7 +29,6 @@ categories: NONE
 ### <https://www.shinhancard.com/pconts/html/card/apply/credit/1188292_2207.html>
 ### <https://www.okcashbag.com/displayadmin/partner.do>
 ### <https://allthat.aws.shinhancard.com/dsp02000/429>
-### <http://edu.yes24.com/goods/goods_lecture_detail.aspx?GOODSMST_NO=574624&CATE_CODE=009022004001>
 ### <https://www.happymoney.co.kr/svc/>
 ### <https://www.seagm.com/>
 ### <https://buts.co.kr>
