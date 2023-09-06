@@ -7,6 +7,7 @@ categories: NONE
 ---
 ## A
 ### <https://m.naver.com/>
+### <https://sports.news.naver.com/>
 ### <https://mail.google.com/>
 ### <https://personal.lookout.com/a/>
 ### <https://www.algumon.com/>
@@ -20,12 +21,10 @@ categories: NONE
 ### <https://weather.naver.com/today/02135110>
 
 ## C
-### <https://m.tourvis.com/activity/product/PRD3000484062>
 ### <http://edu.yes24.com/goods/goods_lecture_detail.aspx?GOODSMST_NO=574624&CATE_CODE=009022004001>
 
 ## D
 ### <http://m.danawa.com/>
-### <https://www.shinhancard.com/pconts/html/card/apply/credit/1187945_2207.html>
 ### <https://www.shinhancard.com/pconts/html/card/apply/credit/1188292_2207.html>
 ### <https://www.okcashbag.com/displayadmin/partner.do>
 ### <https://allthat.aws.shinhancard.com/dsp02000/429>
@@ -40,5 +39,3 @@ categories: NONE
 ### <https://coupon.infordeli.com/coupon>
 ### <https://www.offgamers.com/kr/en> [TMH](https://themorehelp.com/)
 ### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
-### [SEARCH](https://www.google.com/search?q=%EC%BB%AC%EB%A6%AC+%EA%B0%80%EC%9E%85+%EC%9D%B4%EB%B2%A4%ED%8A%B8&biw=393&bih=736&tbs=qdr%3Aw&ei=MQyoZJXrDKeu2roPz5uqmA0&oq=%EC%BB%AC%EB%A6%AC++%EC%9D%B4%EB%B2%A4%ED%8A%B8&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYAjIFCAAQgAQyBggAEAcQHjIGCAAQBxAeMggIIRCgARDDBDIICCEQoAEQwwQyCAghEKABEMMEOggIABCiBBCwA0oECEEYAVDmC1iYDWDaKmgBcAB4AIABxwGIAeICkgEDMC4ymAEAoAEBwAEByAED&sclient=mobile-gws-wiz-serp#ip=1)
-
