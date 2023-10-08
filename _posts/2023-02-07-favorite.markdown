@@ -21,7 +21,6 @@ categories: NONE
 ### <https://weather.naver.com/today/02135110>
 
 ## C
-### <https://www.vjw.digital.go.jp/>
 ### <http://edu.yes24.com/goods/goods_lecture_detail.aspx?GOODSMST_NO=574624&CATE_CODE=009022004001>
 
 ## D
