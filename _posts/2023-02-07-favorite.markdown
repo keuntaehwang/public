@@ -16,6 +16,7 @@ categories: NONE
 ## B
 ### <https://whatismyipaddress.com/>
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
+### <https://138.2.234.3:943/admin/status_overview>
 ### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 ### <https://quickconnect.to/>
 ### <https://weather.naver.com/today/02135110>
