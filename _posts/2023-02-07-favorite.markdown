@@ -39,4 +39,5 @@ categories: NONE
 ### <https://www.coupop.co.kr/>
 ### <https://coupon.infordeli.com/coupon>
 ### <https://www.offgamers.com/kr/en> [TMH](https://themorehelp.com/)
+### <https://giftto.jp/>
 ### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
