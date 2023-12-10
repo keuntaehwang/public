@@ -14,7 +14,6 @@ categories: NONE
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
-### <https://www.usimsa.com/>
 ### <https://whatismyipaddress.com/>
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
 ### <https://138.2.234.3:943/admin>
@@ -42,3 +41,4 @@ categories: NONE
 ### <https://www.offgamers.com/kr/en> [TMH](https://themorehelp.com/)
 ### <https://giftto.jp/>
 ### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
+### <https://www.give.go.kr/portal/donation/support/forInsertStep01.do?menuNo=200019>
