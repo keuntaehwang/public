@@ -8,21 +8,20 @@ categories: NONE
 ## A
 ### <https://m.naver.com/>
 ### <https://sports.news.naver.com/>
-### <https://mail.google.com/>
-### <https://personal.lookout.com/a/>
+### <https://sports.news.naver.com/wfootball/index/>
+### <https://www.facebook.com/>
+### <https://twitter.com/>
 ### <https://www.algumon.com/>
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
 ### <https://whatismyipaddress.com/>
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
-### <https://138.2.234.3:943/admin>
+### <https://personal.lookout.com/a/>
 ### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
+### <https://mail.google.com/>
 ### <https://quickconnect.to/>
 ### <https://weather.naver.com/today/02135110>
-
-## C
-### <http://edu.yes24.com/goods/goods_lecture_detail.aspx?GOODSMST_NO=574624&CATE_CODE=009022004001>
 
 ## D
 ### <http://m.danawa.com/>
