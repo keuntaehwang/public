@@ -11,23 +11,14 @@ categories: NONE
 ### <https://www.facebook.com/>
 ### <https://twitter.com/>
 ### <https://www.algumon.com/>
-### <http://www.moabbs.com/board/cboard>
-### <https://aagag.com/>
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
-### <https://whatismyipaddress.com/>
-### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
-### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 ### <https://mail.google.com/>
 ### <https://quickconnect.to/>
 ### <https://www.kr-weathernews.com/mv3/html/map.html>
 ### <https://weather.naver.com/today/02135110>
 ### <https://weather.naver.com/map>
-
-## C
-### <https://www.cultizm.com/us/search/index/sSearch/freitag+lassie>
-### <https://www.freitag.ch/en/f11-lassie>
 
 ## D
 ### <http://m.danawa.com/>
@@ -40,6 +31,12 @@ categories: NONE
 ### <https://pickle.plus>
 ### <https://invest.lendit.co.kr/invest>
 ### <https://www.paysgift.com/Mobile/Inquiry>
+
+## I
+### <https://whatismyipaddress.com/>
+### <https://freevpn4you.net/locations/ukraine.php>
+### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
+### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 
 ## Y
 ### <https://www.coupop.co.kr/>
