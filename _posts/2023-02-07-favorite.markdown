@@ -17,7 +17,8 @@ categories: NONE
 ## B
 ### <https://mail.google.com/>
 ### <https://quickconnect.to/>
-### <https://www.kr-weathernews.com/mv3/html/map.html>
+### <https://www.kr-weathernews.com/mv3/html/map.html>>
+### <https://www.weather.go.kr/w/image/vshrt/rain.do
 ### <https://weather.naver.com/today/02135110>
 ### <https://weather.naver.com/map>
 
