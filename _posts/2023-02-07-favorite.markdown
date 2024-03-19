@@ -8,15 +8,15 @@ categories: NONE
 ## A
 ### <https://m.naver.com/>
 ### <https://sports.news.naver.com/>
-### <https://www.facebook.com/>
-### <https://www.instagram.com/>
-### <https://twitter.com/>
 ### <https://www.algumon.com/>
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 
 ## B
 ### <https://mail.google.com/>
 ### <https://quickconnect.to/>
+### <https://www.facebook.com/>
+### <https://www.instagram.com/>
+### <https://twitter.com/>
 ### <https://www.kr-weathernews.com/mv3/html/map.html>
 ### <https://www.weather.go.kr/w/image/vshrt/rain.do>
 ### <https://weather.naver.com/today/02135110>
@@ -24,11 +24,11 @@ categories: NONE
 
 ## D
 ### <http://m.danawa.com/>
+### <https://www.booknlife.com/main/>
 ### <https://m.outback.co.kr/mypage/main.do?menuIdx=109>
 ### <https://www.shinhancard.com/pconts/html/card/apply/credit/1188292_2207.html>
 ### <https://www.okcashbag.com/displayadmin/partner.do>
 ### <https://allthat.aws.shinhancard.com/dsp02000/429>
-### <https://www.happymoney.co.kr/svc/>
 ### <https://buts.co.kr>
 ### <https://pickle.plus>
 ### <https://invest.lendit.co.kr/invest>
@@ -40,13 +40,22 @@ categories: NONE
 ### <https://www.oracle.com/cloud/sign-in.html?redirect_uri=https%3A%2F%2Fcloud.oracle.com%2F>
 ### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 
+## M
+### <https://www.uplusumobile.com/>
+### <https://www.skylife.co.kr/member/login>
+### <https://www.sk7mobile.com/main.do>
+### <https://www.freet.co.kr/login>
+### <https://www.liivm.com/>
+
 ## Y
 ### <https://coupon.infordeli.com/coupon>
 ### <https://www.offgamers.com/kr/en> [TMC](https://www.thecashback.kr/exchangerate.php) [TMH](https://www.themore.app/)
 ### <https://giftto.jp/>
 ### <https://post.malltail.com/> h~
+### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
+
+## Z
 ### <https://m.vitatra.com/event/attend>
 ### <https://www.coupop.co.kr/>
-### <https://dt.kt.co.kr/fe/chat/pay.do?key=0deae4f4-9cdb-4692-b0fe-c42158dff46b>
 ### <https://www.give.go.kr/portal/donation/support/forInsertStep01.do?menuNo=200019>
 ### [MK](https://www.google.com/search?q=%EC%BB%AC%EB%A6%AC+%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90&newwindow=1&sca_esv=dcfe5edb8f188ebf&biw=1740&bih=1091&tbs=qdr%3Aw&sxsrf=ACQVn08Wqs_trnv8MPsFxv6i-8qPOjHfGQ%3A1708584955225&ei=--_WZa2nDY-Q2roP36Kk2Ak&udm=&ved=0ahUKEwjtkMz6rr6EAxUPiFYBHV8RCZsQ4dUDCBA&uact=5&oq=%EC%BB%AC%EB%A6%AC+%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-y7rOumrCDsi6Dqt5ztmozsm5BIpQtQAFjDCnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQE&sclient=gws-wiz-serp)
