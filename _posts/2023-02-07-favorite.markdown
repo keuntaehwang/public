@@ -22,7 +22,7 @@ categories: NONE
 ### <https://ebook.yongin.go.kr/elibrary-front/main.ink>
 
 ## W
-### <https://weather.naver.com/today/02135110>
+### <https://weather.naver.com/today>
 ### <https://www.kr-weathernews.com/mv3/html/map.html>
 ### <https://www.weather.go.kr/w/image/vshrt/rain.do>
 
@@ -76,4 +76,3 @@ categories: NONE
 ### <https://www.give.go.kr/portal/donation/support/forInsertStep01.do?menuNo=200019>
 ### <https://www.offgamers.com/kr/en> [TMC](https://www.thecashback.kr/exchangerate.php) [TMH](https://www.themore.app/)
 ### <https://giftto.jp/>
-### [MK](https://www.google.com/search?q=%EC%BB%AC%EB%A6%AC+%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90&newwindow=1&sca_esv=dcfe5edb8f188ebf&biw=1740&bih=1091&tbs=qdr%3Aw&sxsrf=ACQVn08Wqs_trnv8MPsFxv6i-8qPOjHfGQ%3A1708584955225&ei=--_WZa2nDY-Q2roP36Kk2Ak&udm=&ved=0ahUKEwjtkMz6rr6EAxUPiFYBHV8RCZsQ4dUDCBA&uact=5&oq=%EC%BB%AC%EB%A6%AC+%EC%8B%A0%EA%B7%9C%ED%9A%8C%EC%9B%90&gs_lp=Egxnd3Mtd2l6LXNlcnAiE-y7rOumrCDsi6Dqt5ztmozsm5BIpQtQAFjDCnAAeACQAQCYAQCgAQCqAQC4AQPIAQD4AQE&sclient=gws-wiz-serp)
