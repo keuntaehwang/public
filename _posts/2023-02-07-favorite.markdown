@@ -8,8 +8,6 @@ categories: NONE
 ## A
 ### <https://m.naver.com/>
 ### <https://sports.news.naver.com/>
-### <https://news.google.com/home?hl=ko&gl=KR&ceid=KR:ko>
-### <https://m.cafe.daum.net/>
 ### <https://www.issuelink.co.kr/community/listview/all/3/adj/_self/blank/blank/blank>
 ### <https://www.algumon.com/>
 ### <https://aagag.com/mirror/>
@@ -24,6 +22,10 @@ categories: NONE
 ### <https://weather.naver.com/today>
 ### <https://www.kr-weathernews.com/mv3/html/map.html>
 ### <https://www.weather.go.kr/w/image/vshrt/rain.do>
+
+## C
+### <https://mail.google.com/>
+### <https://quickconnect.to/>
 
 ## E
 ### <https://www.facebook.com/>
@@ -41,10 +43,6 @@ categories: NONE
 ### <https://www.prodirectsport.com/>
 ### <https://www.kitbag.com/en/>
 ### <https://allthatkids.co.kr/>
-
-## C
-### <https://mail.google.com/>
-### <https://quickconnect.to/>
 
 ## D
 ### <http://m.danawa.com/>
