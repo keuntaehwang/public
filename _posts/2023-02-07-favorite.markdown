@@ -34,6 +34,6 @@ categories: NONE
 ### <https://github.com/keuntaehwang/public/blob/main/_posts/2023-02-07-favorite.markdown>
 
 ## Link
-### [shopping](https://keuntaehwang.github.com/public/posts/shopping/)
-### [reference](https://keuntaehwang.github.com/public/posts/reference/)
-### [etc](https://keuntaehwang.github.com/public/posts/etc/)
+### [shopping](https://keuntaehwang.github.io/public/posts/shopping/)
+### [reference](https://keuntaehwang.github.io/public/posts/reference/)
+### [etc](https://keuntaehwang.github.io/public/posts/etc/)
