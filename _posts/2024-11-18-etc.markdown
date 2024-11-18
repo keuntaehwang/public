@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Favorite"
-description: favorite
-date:   2023-02-07 18:00:00 +0900
+title:  "etc"
+description: etc
+date:   2024-11-18 14:00:00 +0900
 categories: NONE
 ---
 ## A
