@@ -5,10 +5,7 @@ description: etc
 date:   2024-11-18 14:00:00 +0900
 categories: NONE
 ---
-## M
-### <https://www.uplusumobile.com/>
-### <https://www.skylife.co.kr/member/login>
-### <https://www.liivm.com/>
-### <https://myaccount.hanacell.com/contracts/overview>
-### <https://www.sk7mobile.com/main.do>
-### <https://www.freet.co.kr/login>
+## W
+### <https://weather.naver.com/today>
+### <https://www.kr-weathernews.com/mv3/html/map.html>
+### <https://www.weather.go.kr/w/image/vshrt/rain.do>
