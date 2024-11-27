@@ -33,6 +33,5 @@ categories: NONE
 ### [shopping](https://keuntaehwang.github.io/public/posts/shopping/)
 ### [mobile](https://keuntaehwang.github.io/public/posts/mobile/)
 ### [reference](https://keuntaehwang.github.io/public/posts/reference/)
-### [etc](https://keuntaehwang.github.io/public/posts/etc/)
 ### [old](https://keuntaehwang.github.io/public/posts/old/)
 
